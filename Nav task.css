@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    display: flex;
+    justify-content: right;
+    background-color: blueviolet;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+    gap: 20PX;
+    
+}
+header{
+    display: flex;
+    justify-content: left;
+    background-color: orange;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+    gap: 20px;
+}
+#L{
+   display: flex;
+    gap: 20px;
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    background-color: green;
+    color: aliceblue;
+    padding: 20px;
+    margin: 20px;
+}
+#left{
+    display: flex;
+    gap: 20px;
+}
+#right{
+    display: flex;
+    gap: 20px;
+}
+#cent{
+    display: flex;
+    gap: 20px;
+}
